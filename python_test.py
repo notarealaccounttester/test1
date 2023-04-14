@@ -5,6 +5,9 @@ import pandas as pd
 import os
 import csv
 
+# adding some comments here for testing
+#nothing special, just doing this for a commity
+
 hashed_passwords = list()
 hashed_emails = list()
 clear_passwords = list()
